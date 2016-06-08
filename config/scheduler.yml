@@ -1,0 +1,2 @@
+HelloWorker:
+  cron: "*/5 * * * *"
