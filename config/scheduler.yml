@@ -1,2 +1,4 @@
 HelloWorker:
-  cron: "*/5 * * * *"
+  cron: "*/2 * * * *"
+FailWorker:
+  cron: "*/2 * * * *"
